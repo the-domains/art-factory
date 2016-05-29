@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Art Factory]]></title>
         <description><![CDATA[Art Factory]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/art-factory/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 11:06:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 11:06:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/art-factory/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The unchosen - Reuel megged]]></title>
+            <description><![CDATA[<article><h1>The unchosen - Reuel megged</h1><p>3d max animation art design</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2700f08a55149f748a462e19484a5d911d6b9a86.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=DPmgwTCfr8Q</link>
+            <guid isPermaLink="false">0cc0f14d-c360-4574-8f0e-a6bf40e503fd</guid>
+            <pubDate>Sun, 29 May 2016 11:06:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Visual arts in Israel - Wikipedia, the free encyclopedia]]></title>
             <description><![CDATA[<article><h1>Visual arts in Israel - Wikipedia, the free encyclopedia</h1><p>Visual arts in Israel refers to plastic art created in the Land of Israel/ Palestine region, from the later part of the 19th century until today, or art created by Israeli artists. Visual art in Israel encompasses a wide spectrum of techniques, styles and themes reflecting a dialogue with Jewish art throughout the ages and attempts to formulate a national identity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/943e18dae17a5bbc4d146dcb16e94585b33131f3.jpg"></article>]]></description>
