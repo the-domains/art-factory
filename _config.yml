@@ -1,0 +1,14 @@
+layout_spectrum: 0.41828488325700164
+typography_spectrum: 0.6456600264646113
+color:
+  brandStrength: 0.09697657753713429
+  lightness: 0.5396094704046845
+  saturation: 0.9526117597706616
+  rhythmicContrast: 0.6382576392497867
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Art Factory
