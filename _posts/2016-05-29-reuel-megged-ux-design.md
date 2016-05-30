@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-05-29T11:11:53.816Z'
+datePublished: '2016-05-30T10:54:38.768Z'
 isBasedOnUrl: 'http://rmegged.wix.com/reuel-design'
 keywords: []
 related: []
 author: []
-dateModified: '2016-05-29T11:09:11.866Z'
+dateModified: '2016-05-30T10:54:38.283Z'
 title: Reuel Megged UX design
 app_links: []
 publisher:
@@ -13,8 +13,8 @@ publisher:
   favicon: 'http://www.wix.com/favicon.ico'
   domain: rmegged.wix.com
 description: Multimedia artist and web designer   UX/UI expert with extend knowledge in Digital Media.
-starred: true
 sourcePath: _posts/2016-05-29-reuel-megged-ux-design.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
