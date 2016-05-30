@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-05-30T07:04:15.020Z'
+datePublished: '2016-05-30T10:54:18.648Z'
 isBasedOnUrl: 'https://www.facebook.com/Reuel-Megged-Digital-Art-253639104667873/'
 keywords: []
 related: []
 author: []
-dateModified: '2016-05-30T07:03:57.339Z'
+dateModified: '2016-05-30T10:54:17.809Z'
 title: 'ArtFactory '
 app_links: []
 publisher:
@@ -13,8 +13,8 @@ publisher:
   favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
   domain: www.facebook.com
 description: UX design studio
-starred: false
 sourcePath: _posts/2016-05-30-artfactory.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
